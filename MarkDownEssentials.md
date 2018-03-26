@@ -30,9 +30,26 @@ In the words of rongx:
 
 ## Lists
 
+You can start listing by \- (dash):
 - George Washington
 - John Adams
+  1. Jr
+  1. Sub
 - Thomas Jefferson
+  - Jr
+  - Jr II
+  
+Sublists start with same indention.
+
+Another numbered list
+1. Hello
+1. World
+1. Good
+
+Lists can also be led by \*:
+* Monday
+* Tuesday
+* ...
 
 ## Task list
 
