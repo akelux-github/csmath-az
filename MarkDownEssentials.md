@@ -4,7 +4,7 @@ This document is largely based on this github [help](https://help.github.com/cat
 
 You start a new section with `# ` (a pound and a space).
 
-You put a code block in between 2  (triple back quotes):
+You put a code block in between 2 \`  (triple back quotes):
 
 ```javascript
 function test() {
@@ -17,6 +17,10 @@ function test() {
 
 # Basic Writings
 
+## Font faces
+
+Put text in **Bold** within two **\*** (star), or in two __\___ as well.
+
 ## Lists
 
 - George Washington
@@ -26,7 +30,7 @@ function test() {
 ## Task list
 
 - [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] Push my commits to GitHub
+- [x] Open a pull request
 
 ## and subsections 2.1
