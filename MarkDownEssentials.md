@@ -21,6 +21,13 @@ function test() {
 
 Put text in **Bold** within two **\*** (star), or in two __\___ as well.
 
+
+## Quotes
+
+In the words of rongx:
+
+> There should be no mistery in the code.
+
 ## Lists
 
 - George Washington
